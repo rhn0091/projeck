@@ -1,0 +1,9 @@
+body {
+  background-color: cyan;
+  color: tomato;
+  text-align: center;
+  font-size: auto;
+}
+.navbar {
+  margin-bottom: 25px;
+}
